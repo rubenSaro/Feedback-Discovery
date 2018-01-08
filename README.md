@@ -1,6 +1,6 @@
 # Feedback-Discovery
 
-The fMRI BOLD data used in "Causal Discovery of Feedback Networks with Functional Magnetic Resonance Imaging Data" is available for download in the BOX folder:
+The fMRI BOLD data used in "Feedback Networks Discovery with Functional Magnetic Resonance Imaging Data" is available for download in the BOX folder:
 
 http://bit.ly/2Al3tzv
 

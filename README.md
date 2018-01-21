@@ -1,6 +1,6 @@
 # Feedback-Discovery
 
-The fMRI BOLD data used in "Feedback Networks Discovery with Functional Magnetic Resonance Imaging Data" is available for download in the BOX folder:
+The fMRI BOLD data used in "Estimating Feedforward and Feedback Effective Connections from FMRI Time Series: Assessments of Statistical Methods" is available for download in the BOX folder:
 
 http://bit.ly/2Al3tzv
 

@@ -2,7 +2,7 @@
 
 The fMRI BOLD data used in "Estimating Feedforward and Feedback Effective Connections from FMRI Time Series: Assessments of Statistical Methods" is available for download in the BOX folder:
 
-http://bit.ly/2Al3tzv
+https://bit.ly/datafeedbacks
 
 The folder contains various sub-folders:
 

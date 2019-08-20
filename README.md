@@ -1,6 +1,6 @@
 # Feedback-Discovery
 
-The fMRI BOLD data used in "Estimating Feedforward and Feedback Effective Connections from FMRI Time Series: Assessments of Statistical Methods" is available for download in the BOX folder:
+The fMRI BOLD data used in Sanchez-Romero, R., Ramsey, J. D., Zhang, K., Glymour, M. R., Huang, B., & Glymour, C. (2019). Estimating feedforward and feedback effective connections from fMRI time series: Assessments of statistical methods. Network Neuroscience, 3(2), 274-306, is available for download in the BOX folder:
 
 https://bit.ly/datafeedbacks
 

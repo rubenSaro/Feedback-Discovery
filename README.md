@@ -1,10 +1,22 @@
-# Feedback-Discovery
+# Causal Discovery for Feedback Networks
 
-The fMRI BOLD data used in "Estimating Feedforward and Feedback Effective Connections from FMRI Time Series: Assessments of Statistical Methods" is available for download in the BOX folder:
+Main site for the project: Sanchez-Romero, R., Ramsey, J. D., Zhang, K., Glymour, M. R., Huang, B., & Glymour, C. (2019). [Estimating feedforward and feedback effective connections from fMRI time series: Assessments of statistical methods](https://doi.org/10.1162/netn_a_00061). Network Neuroscience, 3(2), 274-306.
 
-https://bit.ly/datafeedbacks
+The paper introduced **FASK** and **Two-Step**, two new non-Gaussian causal algorithms to infer networks with feedback/cyclic interactions. The algorithms were designed and applied to fMRI data but they can be used for other non-Gaussian, linear datasets. See paper for details.
 
-The folder contains various sub-folders:
+## Non-Gaussian Algorithms
+
+Fast Adjacency Skewness (**FASK**): available as part of the Tetrad project, https://github.com/cmu-phil/tetrad
+
+**Two-Step**: available as a standalone Matlab repository, https://github.com/cabal-cmu/Two-Step 
+
+## Datasets
+
+Simulated and empirical data used in the paper. 
+
+Download here https://bit.ly/datafeedbacks
+
+The data folder contains various sub-folders:
 
 1. Simple Networks: Synthetic data for 9 cyclic networks (Figure 1 in the text) and their amplifying and control variants, resulting in 18 simulations. For each simulation: 60 individual datasets and 60 datasets of ten concatenated invididuals. 
 
